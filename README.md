@@ -8,7 +8,7 @@ for user retention.
 
 It contains the following files:
 
-1. The Jupyter notebook (Waze churn analysis project.ipynb) file that contains the code
+1. The Jupyter notebook (Waze churn analysis project_v2.ipynb) file that contains the code
 2. The dataset which is sourced from kaggle (waze_dataset.csv) and is a comma separated values data table
 3. An executive summary of the analysis and findiings in .PDF form
 4. An executive summary of the analyis and findings in .pptx slidedeck form
